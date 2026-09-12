@@ -244,6 +244,7 @@ h3.sub:first-child { margin-top: 0; }
 .ver-setup { border-top: 1px solid var(--line-2); padding-top: 12px; font-size: 15px; color: var(--ink); }
 .ver-setup .lbl { display: block; color: var(--ink-3); font-size: 13px; margin-bottom: 2px; }
 .ver .btn { align-self: flex-start; margin-top: 4px; }
+.ver-alt { font-size: 13.5px; color: var(--ink-3); margin-top: 2px; }
 .btn-blue { background: var(--blue); }
 .btn-blue:hover { background: #1c3853; }
 
